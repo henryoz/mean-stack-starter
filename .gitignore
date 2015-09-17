@@ -5,3 +5,4 @@ build/**
 db/**
 *.swp
 .DS_Store
+.idea
